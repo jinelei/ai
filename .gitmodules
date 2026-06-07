@@ -1,0 +1,9 @@
+[submodule "scalefish"]
+	path = scalefish
+	url = ./scalefish
+[submodule "scalefish-ui"]
+	path = scalefish-ui
+	url = ./scalefish-ui
+[submodule "scalefish-chrome-ext"]
+	path = scalefish-chrome-ext
+	url = ./scalefish-chrome-ext
