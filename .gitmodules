@@ -1,9 +1,9 @@
 [submodule "scalefish"]
 	path = scalefish
-	url = ./scalefish
+	url = git@github.com:jinelei/scalefish.git
 [submodule "scalefish-ui"]
 	path = scalefish-ui
-	url = ./scalefish-ui
+	url = git@github.com:jinelei/scalefish-ui.git
 [submodule "scalefish-chrome-ext"]
 	path = scalefish-chrome-ext
-	url = ./scalefish-chrome-ext
+	url = git@github.com:jinelei/scalefish-chrome-ext.git
